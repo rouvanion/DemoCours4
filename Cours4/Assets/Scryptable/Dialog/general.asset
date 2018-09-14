@@ -11,5 +11,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7377873a1a714214fa71e738fdd85b45, type: 3}
   m_Name: general
   m_EditorClassIdentifier: 
-  scriptableText: 
+  scriptableText: general k
   nextDialog: {fileID: 0}
